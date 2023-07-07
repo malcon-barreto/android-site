@@ -5,14 +5,14 @@
 @font-face {
 
     font-family: 'idroid';
-    src: url(/fontes/idroid.otf);
+    src: url(fontes/idroid.otf);
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
 
     font-family: Square;
-    src: url(/fontes/Square.ttf);
+    src: url(fontes/Square.ttf);
     font-weight: normal;
     font-style: normal;
 }
